@@ -32,6 +32,14 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+	{
+      "name": "Mantle",
+      "url": "mantle"
+    },
+	{
+      "name": "Smolicons",
+      "url": "smolicons"
     }
   ],
   "anchors": [
